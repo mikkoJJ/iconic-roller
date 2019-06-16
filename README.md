@@ -1,2 +1,3 @@
 # iconic-roller
-13th Age icon relationship random roller
+
+Tool for randomly determining character icon relationships for the 13th Age tabletop roleplaying game. 
